@@ -10,6 +10,8 @@
 
 ## Tools
 - Cadence Xcelium
+- Synopsys VCS
+- Siemens Questa
 - ModelSim
 
 ## Projects
