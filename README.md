@@ -25,7 +25,7 @@ This repository includes RTL design and verification projects implemented using 
 - Functional verification  
 - Testbench development (stimulus + checking)  
 - Corner case validation  
-- Waveform analysis & debugging  
+- Waveform analysis & debugging
 
 ## 👤 Author
 Keerthan M  
