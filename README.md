@@ -1,82 +1,107 @@
 # Hi, I'm Keerthan 👋
 
-## RTL Design & ASIC Design Verification Engineer
+### RTL Design & ASIC Design Verification
 
-Electronics and Communication Engineering Graduate with hands-on experience in RTL Design, Functional Verification, and SystemVerilog-based verification. Passionate about building reliable digital systems through robust verification methodologies and simulation-driven validation.
+Electronics and Communication Engineering graduate focused on **RTL Design and ASIC Design Verification**, with hands-on experience in **Verilog, SystemVerilog, functional verification, testbench development, simulation, and RTL debugging**.
+
+I have completed a **Design Verification Internship at VLSIMINDS (A Division of S2C Semiconductors Pvt. Ltd.)** and am currently undergoing **Advanced VLSI Design & Verification training at Maven Silicon**.
 
 ---
 
 ## 🔧 Technical Skills
 
-### Hardware Description Languages
+### HDL
 - Verilog
 - SystemVerilog
 
-### Design & Verification
+### RTL Design & Verification
 - RTL Design
 - Functional Verification
 - Testbench Development
-- Assertions (SVA)
+- SystemVerilog Assertions (SVA)
 - Functional Coverage
-- Waveform Analysis & Debugging
+- Simulation & Waveform Debugging
+
+### Protocols
+- APB
+- SPI
+- UART
+- I²C
 
 ### EDA Tools
 - Cadence Xcelium
 - Synopsys VCS
+- Siemens Questa
 - ModelSim
 
 ---
 
 ## 📂 Projects
 
-### 🔹 APB SPI Slave Controller *(In Progress)*
-- RTL implementation using Verilog
-- Functional verification using structured testbenches
-- Protocol validation through simulation and waveform analysis
+### 🔹 APB-SPI Master
+**Verilog | RTL Design | Functional Verification**
+
+- Designed an APB-controlled SPI Master using Verilog
+- Implemented APB interface, SPI clock generation, Slave Select control, and serial data shifting
+- Developed module-level Verilog testbenches
+- Verified APB transactions and SPI data-transfer functionality
+- Performed simulation, waveform analysis, and RTL debugging
 
 ### 🔹 Synchronous FIFO
-- Designed parameterized synchronous FIFO architecture
-- Implemented read/write pointer management
-- Developed Full and Empty flag generation logic
-- Verified functionality using directed testbenches
-- Validated overflow and underflow conditions
+
+- Designed a parameterized synchronous FIFO
+- Implemented read/write pointer architecture
+- Implemented Full and Empty flag logic
+- Verified overflow and underflow scenarios
 - Performed waveform-based debugging
 
 ### 🔹 Hamming (7,4) Encoder & Decoder
-- Implemented single-bit error detection and correction
-- Designed parity generation and syndrome calculation logic
-- Verified encoder and decoder using SystemVerilog testbenches
-- Validated functionality through error injection and waveform analysis
+
+- Implemented Hamming (7,4) encoding and decoding logic
+- Designed parity generation and syndrome calculation
+- Verified single-bit error detection and correction
+- Tested error-injection scenarios through simulation
 
 ---
 
-## 🧪 Verification Focus
+## 🧠 Verification Focus
 
-- RTL Verification
 - Functional Verification
 - Testbench Development
 - Directed Testing
 - Assertions (SVA)
 - Functional Coverage
-- Corner Case Validation
-- Waveform Debugging
+- Corner-Case Validation
+- Simulation
+- Waveform Analysis & Debugging
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced ASIC Design & Verification
-- UVM (Universal Verification Methodology)
-- Protocol-Based Verification
+- UVM (Basic)
+- Constrained Random Verification
+- Advanced SystemVerilog Verification Methodologies
 
 ---
 
-## 📫 Connect with Me
+## 💼 Experience
+
+**VLSIMINDS — Design Verification Intern**  
+*15-Week Internship Program*
+
+**Maven Silicon — Advanced VLSI Design & Verification Trainee**  
+*March 2026 – Present*
+
+---
+
+## 📫 Connect With Me
 
 📧 **Email:** mailmekeerthanm@gmail.com
 
-💼 **LinkedIn:** www.linkedin.com/in/keerthan-m-b26689316
+💼 **LinkedIn:** [Keerthan M](https://www.linkedin.com/in/keerthan-m-b26689316/)
 
 ---
 
-### *Design • Verify • Debug • Deliver*
+### Design • Verify • Debug • Deliver
