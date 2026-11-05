@@ -2,7 +2,7 @@
 
 ### RTL Design & ASIC Design Verification
 
-Electronics and Communication Engineering graduate focused on **RTL Design and ASIC Design Verification**, with hands-on experience in **Verilog, SystemVerilog, functional verification, testbench development, simulation, and RTL debugging**.
+VLSI Design Verification candidate focused on **RTL Design and ASIC Design Verification**, with hands-on experience in **Verilog, SystemVerilog, UVM, functional verification, testbench development, simulation, and RTL debugging**.
 
 I have completed a **Design Verification Internship at VLSIMINDS (A Division of S2C Semiconductors Pvt. Ltd.)** and am currently undergoing **Advanced VLSI Design & Verification training at Maven Silicon**.
 
@@ -17,19 +17,28 @@ I have completed a **Design Verification Internship at VLSIMINDS (A Division of 
 ### RTL Design & Verification
 - RTL Design
 - Functional Verification
-- Testbench Development
+- SystemVerilog Testbench Development
+- Object-Oriented Programming (OOP)
+- Constrained-Random Verification
 - SystemVerilog Assertions (SVA)
 - Functional Coverage
 - Simulation & Waveform Debugging
 
+### UVM
+- UVM Testbench Architecture
+- Sequence Items & Sequences
+- Sequencers & Drivers
+- Monitors & Agents
+- Scoreboards
+- UVM Environment & Test Classes
+
 ### Protocols
-- APB
+- AMBA APB
 - SPI
 - UART
-- I²C
+- I2C
 
 ### EDA Tools
-- Cadence Xcelium
 - Synopsys VCS
 - Siemens Questa
 - ModelSim
@@ -41,48 +50,46 @@ I have completed a **Design Verification Internship at VLSIMINDS (A Division of 
 ### 🔹 APB-SPI Master
 **Verilog | RTL Design | Functional Verification**
 
-- Designed an APB-controlled SPI Master using Verilog
-- Implemented APB interface, SPI clock generation, Slave Select control, and serial data shifting
-- Developed module-level Verilog testbenches
-- Verified APB transactions and SPI data-transfer functionality
-- Performed simulation, waveform analysis, and RTL debugging
+- Designed an APB-controlled SPI Master using Verilog.
+- Implemented APB interface, SPI clock generation, Slave Select control, and serial data shifting.
+- Developed module-level testbenches and verified APB transactions and SPI data-transfer functionality.
+- Performed simulation, waveform analysis, and RTL debugging.
 
 ### 🔹 Synchronous FIFO
+**Verilog | RTL Design | Functional Verification**
 
-- Designed a parameterized synchronous FIFO
-- Implemented read/write pointer architecture
-- Implemented Full and Empty flag logic
-- Verified overflow and underflow scenarios
-- Performed waveform-based debugging
+- Designed a parameterized synchronous FIFO.
+- Implemented read/write pointer architecture and Full/Empty flag logic.
+- Verified data integrity, overflow, and underflow scenarios.
+- Performed simulation and waveform-based debugging.
 
 ### 🔹 Hamming (7,4) Encoder & Decoder
 
-- Implemented Hamming (7,4) encoding and decoding logic
-- Designed parity generation and syndrome calculation
-- Verified single-bit error detection and correction
-- Tested error-injection scenarios through simulation
+- Implemented Hamming (7,4) encoding and decoding logic.
+- Designed parity generation and syndrome calculation.
+- Verified single-bit error detection and correction through simulation.
 
 ---
 
 ## 🧠 Verification Focus
 
 - Functional Verification
-- Testbench Development
-- Directed Testing
-- Assertions (SVA)
+- UVM-Based Testbench Development
+- Directed & Constrained-Random Testing
+- Assertion-Based Verification (SVA)
 - Functional Coverage
+- Scoreboard-Based Checking
 - Corner-Case Validation
-- Simulation
-- Waveform Analysis & Debugging
+- Simulation & Waveform Debugging
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced ASIC Design & Verification
-- UVM (Basic)
-- Constrained Random Verification
-- Advanced SystemVerilog Verification Methodologies
+- UVM Verification Methodology
+- Constrained-Random Verification
+- Advanced SystemVerilog Verification Techniques
 
 ---
 
@@ -96,6 +103,14 @@ I have completed a **Design Verification Internship at VLSIMINDS (A Division of 
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering – Electronics & Communication Engineering**  
+East West College of Engineering, Bengaluru  
+**2022 – 2026 | CGPA: 8.3/10**
+
+---
+
 ## 📫 Connect With Me
 
 📧 **Email:** mailmekeerthanm@gmail.com
@@ -104,4 +119,4 @@ I have completed a **Design Verification Internship at VLSIMINDS (A Division of 
 
 ---
 
-### Design • Verify • Debug • Deliver
+### Design • Verify • Debug • Deliver 🚀
