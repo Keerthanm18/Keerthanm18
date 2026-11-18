@@ -31,7 +31,9 @@ I have completed a **Design Verification Internship at VLSIMINDS (A Division of 
 - Monitors & Agents
 - Scoreboards
 - UVM Environment & Test Classes
-
+- Virtual Sequences and Sequencers
+- RAL(Register Abstraction Layer)
+  
 ### Protocols
 - AMBA APB
 - SPI
