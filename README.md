@@ -56,7 +56,7 @@ I have completed a **Design Verification Internship at VLSIMINDS (A Division of 
 - Performed simulation, waveform analysis, and RTL debugging.
 
 ### 🔹 Synchronous FIFO
-**Verilog | RTL Design | Functional Verification**
+**Verilog | RTL Design | UVM-Based Verification**
 
 - Designed a parameterized synchronous FIFO.
 - Implemented read/write pointer architecture and Full/Empty flag logic.
